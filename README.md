@@ -3,6 +3,7 @@
 - Currently living in :brazil:
 - Data Science and AI college student :nerd_face:
 - I’m looking forrward to collaborate on projects📈
+- Future Data Scientist
 - Email: anabeatrizmacedo241@gmail.com
 
 ## How to contact me 📫 :
