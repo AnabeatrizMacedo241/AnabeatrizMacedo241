@@ -3,6 +3,7 @@
 - Currently living in :brazil:
 - Data Science and AI college student :nerd_face:
 - I’m looking forrward to collaborate on projects📈
+- Email: anabeatrizmacedo241@gmail.com
 
 ## How to contact me 📫 :
 <a href="https://www.linkedin.com/in/ana-beatriz-oliveira-de-macedo-85b05b215/" target="_blank">
