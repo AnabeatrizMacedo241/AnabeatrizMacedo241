@@ -27,4 +27,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnabeatrizMacedo241&theme=chartreuse-dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnabeatrizMacedo241&theme=chartreuse-dark&show_icons=true&layout=compact)](https://github.com/https://github.com/AnabeatrizMacedo241/github-readme-stats)
 
-
+![](https://komarev.com/ghpvc/?username=AnabeatrizMacedo241&color=brightgreen)
