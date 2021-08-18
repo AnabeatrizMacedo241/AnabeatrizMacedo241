@@ -20,6 +20,7 @@
   
 ## Currently studying and main skills:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
+<img src='https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/r/r-original.svg' alt="rails" width='40' height='49' style='max-width: 100%;'></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
