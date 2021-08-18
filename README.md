@@ -1,4 +1,5 @@
-![yellow-divider](https://user-images.githubusercontent.com/7065401/52071924-c003ad80-2562-11e9-8297-1c6595f8a7ff.png)
+<img src="https://user-images.githubusercontent.com/80490047/128768151-14c1a7cd-deda-4020-86f4-46b07fdac266.jpg" align="left" width="1000" height="5"/> 	
+<h2 id="about">Autoras</h2>
 ### Hello world 👋🌎
 ## I am Ana Beatriz Macedo
 - Currently living in :brazil:
@@ -30,5 +31,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnabeatrizMacedo241&theme=chartreuse-dark&show_icons=true&layout=compact)](https://github.com/https://github.com/AnabeatrizMacedo241/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=AnabeatrizMacedo241&color=brightgreen)
-
-![yellow-divider](https://user-images.githubusercontent.com/7065401/52071924-c003ad80-2562-11e9-8297-1c6595f8a7ff.png)
+<img src="https://user-images.githubusercontent.com/80490047/128768151-14c1a7cd-deda-4020-86f4-46b07fdac266.jpg" align="left" width="1000" height="5"/> 	
