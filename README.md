@@ -1,6 +1,4 @@
-<img src="https://user-images.githubusercontent.com/80490047/128768151-14c1a7cd-deda-4020-86f4-46b07fdac266.jpg" align="left" width="1000" height="5"/> 	
-<h2 id="about">Autoras</h2>
-### Hello world 👋🌎
+# Hello world 👋🌎
 ## I am Ana Beatriz Macedo
 - Currently living in :brazil:
 - Data Science and AI undergraduate student :nerd_face: <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1626096942740.png" width="324" height="324" align="right">
