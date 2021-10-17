@@ -29,4 +29,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnabeatrizMacedo241&theme=chartreuse-dark&show_icons=true&layout=compact)](https://github.com/https://github.com/AnabeatrizMacedo241/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=AnabeatrizMacedo241&color=brightgreen)
-<img src="https://user-images.githubusercontent.com/80490047/128768151-14c1a7cd-deda-4020-86f4-46b07fdac266.jpg" align="left" width="1000" height="5"/> 	
