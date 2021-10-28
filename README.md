@@ -25,7 +25,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
 <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnabeatrizMacedo241&theme=chartreuse-dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnabeatrizMacedo241&theme=chartreuse-dark&show_icons=true&layout=compact)](https://github.com/https://github.com/AnabeatrizMacedo241/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnabeatrizMacedo241&theme=chartreuse-dark&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnabeatrizMacedo241&theme=chartreuse-dark&show_icons=true&layout=compact)](https://github.com/https://github.com/AnabeatrizMacedo241/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=AnabeatrizMacedo241&color=brightgreen)
