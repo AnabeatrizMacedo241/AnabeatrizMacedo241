@@ -3,7 +3,7 @@
 - Currently living in :brazil:
 - Data Science and AI undergraduate student <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1626096942740.png" width="324" height="324" align="right">
 - I’m looking forward to collaborate on project
-- Future Data Scientist
+- Future Data Scientist and Sports Analyst
 
 ### How to contact me 📫 :
 <a href="https://www.linkedin.com/in/ana-beatriz-oliveira-de-macedo-85b05b215/" target="_blank">
