@@ -2,7 +2,6 @@
 ## I am Ana Beatriz Macedo
 - Currently living in :brazil:
 - Data Science and AI undergraduate student <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1626096942740.png" width="324" height="324" align="right">
-- I’m looking forward to collaborate on project
 - Future Data Scientist and Sports Analyst
 
 ### How to contact me 📫 :
