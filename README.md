@@ -1,8 +1,8 @@
-# Hello world 👋🌎
-## I am Ana Beatriz Macedo
+## Ana Beatriz Macedo
 - Currently living in :brazil:
 - Data Science and AI undergraduate student <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1626096942740.png" width="324" height="324" align="right">
-- Future Data Scientist and Sports Analyst
+- Future Data Scientist
+- Sports Data Analyst
 
 ### How to contact me 📫 :
 <a href="https://www.linkedin.com/in/ana-beatriz-oliveira-de-macedo-85b05b215/" target="_blank">
@@ -18,8 +18,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
 <img src='https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/r/r-original.svg' alt="rails" width='40' height='49' style='max-width: 100%;'></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
-<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
 ## [My Portfolio](https://anabeatrizmacedo241.github.io/AnaBeatrizMacedo-Portfolio/)
 
 ![](https://komarev.com/ghpvc/?username=AnabeatrizMacedo241&color=brightgreen)
