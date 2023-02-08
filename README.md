@@ -18,6 +18,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
 <img src='https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/r/r-original.svg' alt="rails" width='40' height='49' style='max-width: 100%;'></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
-## [My Portfolio](https://anabeatrizmacedo241.github.io/AnaBeatrizMacedo-Portfolio/)
+## [Portfolio](https://anabeatrizmacedo241.github.io/AnaBeatrizMacedo-Portfolio/)
 
 ![](https://komarev.com/ghpvc/?username=AnabeatrizMacedo241&color=brightgreen)
