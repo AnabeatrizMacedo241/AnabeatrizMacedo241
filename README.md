@@ -14,5 +14,7 @@
 
 ## [Data Viz Twitter Account](https://twitter.com/AnaBeaM241)
 ## [Portfolio](https://anabeatrizmacedo-portfolio.onrender.com/)
+### [Buy me a Coffee ☕️](https://www.paypal.com/donate/?business=6D8HB7DUSKMDQ&no_recurring=0&item_name=Donate+to+help+me+make+more+Data+Science+and+Sports+Analytics+content&currency_code=BRL)
+
 
 ![](https://komarev.com/ghpvc/?username=AnabeatrizMacedo241&color=brightgreen)
