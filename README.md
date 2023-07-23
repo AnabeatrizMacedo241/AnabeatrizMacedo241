@@ -13,7 +13,7 @@
 <a href="https://github.com/AnabeatrizMacedo241" target="_blank">
 
 ## [Data Viz Twitter Account](https://twitter.com/AnaBeaM241)
-## [Portfolio](https://anabeatrizmacedo-portfolio.onrender.com/)
+## [Portfolio](https://portfolio-anabeatrizmacedo.streamlit.app/)
 ### [Buy me a Coffee ☕️](https://www.paypal.com/donate/?business=6D8HB7DUSKMDQ&no_recurring=0&item_name=Donate+to+help+me+make+more+Data+Science+and+Sports+Analytics+content&currency_code=BRL)
 
 
