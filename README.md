@@ -7,7 +7,7 @@
 <img align="center" alt='Ana Beatriz-linkedin' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 
 ## [Data Viz Twitter Account](https://twitter.com/AnaBeaM241)
-## [Portfolio](https://portfolio-anabeatrizmacedo.streamlit.app/)
+## [Portfolio](https://anabeatrizamacedoportfolio.streamlit.app/)
 ### [Buy me a Coffee ☕️](https://www.paypal.com/donate/?business=6D8HB7DUSKMDQ&no_recurring=0&item_name=Donate+to+help+me+make+more+Data+Science+and+Sports+Analytics+content&currency_code=BRL)
 
 
